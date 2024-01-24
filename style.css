@@ -33,6 +33,9 @@ a{
   color: #6B72E1;
   font-weight: bolder;
 }
+
+img{border-radius: 55px;
+}
  
 a:hover {
 color: lightgoldenrodyellow;
